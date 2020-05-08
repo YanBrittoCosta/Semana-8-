@@ -1,0 +1,3 @@
+pyuic5 -x arquivo.ui -o arquivo.py
+pyuic5 -x FrmPrincipal.ui -o FrmPrincipal.py
+
